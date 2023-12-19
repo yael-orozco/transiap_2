@@ -1,0 +1,16 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "ubicacion_xml"
+        }
+    },
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "ubicacion_map"
+        }
+    },
+    "id": "441ad697-fee7-42fd-8db0-5a383dd30e36",
+    "version": "5.2.0.0"
+}
